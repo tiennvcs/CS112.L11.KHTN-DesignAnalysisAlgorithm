@@ -10,7 +10,7 @@
 | 3 | Nguyễn Văn Tiến | 18521489 | KHTN2018 | https://github.com/tiennvuit |
 
 
-## Danh sách bài tập hẳng tuần
+## Danh sách bài tập hằng tuần
 -----------
 - [Bài tập tuần 1 (10/09/2020)](https://github.com/tiennvuit/CS112.L11.KHTN/tree/master/Assignment_01)
 - [Bài tập tuần 2 (17/09/2020)](https://github.com/tiennvuit/CS112.L11.KHTN/tree/master/Assignment_02)
