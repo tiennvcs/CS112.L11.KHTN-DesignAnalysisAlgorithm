@@ -12,4 +12,4 @@ def fibonacy(k: int):
 n, k = map(int, input().split())
 
 result = n*fibonacy(2*k)
-print(result)
+print(result%(10^9+7))
