@@ -3,9 +3,12 @@
 
 ## Thông tin thành viên nhóm
 -----------
-- Trần Trung Anh *18520473*
-- Nguyễn Phú Quốc *18520343*
-- Nguyễn Văn Tiến *18521489*
+| STT | Họ và tên | MSSV | Lớp | Github link |
+|-|-|-|-|-|
+| 1 | Trần Trung Anh | 18520473 | KHTN2018 | https://github.com/AVL1 |
+| 2 | Nguyễn Phú Quốc | 18520343 | KHTN2018 | https://github.com/KicksxNPQ |
+| 3 | Nguyễn Văn Tiến | 18521489 | KHTN2018 | https://github.com/tiennvuit |
+
 
 ## Danh sách bài tập hẳng tuần
 -----------
