@@ -6,9 +6,8 @@ def binarySearch(a, k, b, m, n):
 
 		return (a+b)*t - (int(t//k)*a+int(t//m)*b)
 
-
-	low = 1
-	high = n
+	low = 0
+	high = int(1e18)
 
 	while low <= high:
 
