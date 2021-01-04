@@ -1,0 +1,1 @@
+Seminar Divide and Conquer
