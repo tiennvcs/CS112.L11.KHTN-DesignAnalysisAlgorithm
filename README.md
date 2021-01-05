@@ -21,12 +21,16 @@
 - [Bài tập tuần 7 (22/10/2020)](https://github.com/tiennvuit/CS112.L11.KHTN/tree/master/Assignment_05)
 - [Bài tập tuần 8 (05/11/2020)](https://github.com/tiennvuit/CS112.L11.KHTN/tree/master/Assignment_05)
 - [Bài tập tuần 9 (26/10/2020)](https://github.com/tiennvuit/CS112.L11.KHTN/tree/master/Assignment_05)
+- [Bài tập tuần 10 (03/12/2020)](https://github.com/tiennvuit/CS112.L11.KHTN/tree/master/Assignment_05)
 
-## Seminar
+## Seminar Phương pháp thiết kế thuật toán: Chia và Trị
 ----------
 - Chủ đề: Giới thiệu phương pháp thiết kế thuật toán: Divide and Conquer
-- [Báo cáo]()
-- [Source code]()
+- [Báo cáo](https://github.com/tiennvuit/CS112.L11.KHTN/blob/master/Seminar/%5BSeminar%5D%20Divide%20and%20Conquer.pptx)
+- [Source code](https://github.com/tiennvuit/CS112.L11.KHTN/tree/master/Seminar/Practice)
+
+
+## Contact information: tiennvuit@gmail.com
 
 
 
