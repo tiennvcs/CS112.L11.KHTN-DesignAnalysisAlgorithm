@@ -26,11 +26,11 @@
 ## Seminar Phương pháp thiết kế thuật toán: Chia và Trị
 ----------
 - Chủ đề: Giới thiệu phương pháp thiết kế thuật toán: Divide and Conquer
-- [Báo cáo](https://github.com/tiennvuit/CS112.L11.KHTN/blob/master/Seminar/%5BSeminar%5D%20Divide%20and%20Conquer.pptx)
-- [Source code](https://github.com/tiennvuit/CS112.L11.KHTN/tree/master/Seminar/Practice)
+- [Báo cáo](https://github.com/tiennvuit/CS112.L11.KHTN/blob/master/Seminar_DivideandConquer/%5BSeminar%5D%20Divide%20and%20Conquer.pptx)
+- [Source code](https://github.com/tiennvuit/CS112.L11.KHTN/tree/master/Seminar_DivideandConquer/Practice)
 
 
-## Contact information: tiennvuit@gmail.com
+Contact information: tiennvuit@gmail.com
 
 
 
