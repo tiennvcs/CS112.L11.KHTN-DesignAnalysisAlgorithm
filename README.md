@@ -1,7 +1,7 @@
 # CS112.L11.KHTN
-# Phân tích và thiết kế thuật toán
+# Design and analysis algorithm
 
-## Thông tin thành viên nhóm
+## Team info
 -----------
 | STT | Họ và tên | MSSV | Lớp | Github link |
 |-|-|-|-|-|
@@ -12,26 +12,20 @@
 
 ## Danh sách bài tập hằng tuần
 -----------
-- [Bài tập tuần 1 (10/09/2020)](https://github.com/tiennvuit/CS112.L11.KHTN/tree/master/Assignment_01)
-- [Bài tập tuần 2 (17/09/2020)](https://github.com/tiennvuit/CS112.L11.KHTN/tree/master/Assignment_02)
-- [Bài tập tuần 3 (24/09/2020)](https://github.com/tiennvuit/CS112.L11.KHTN/tree/master/Assignment_03)
-- [Bài tập tuần 4 (01/10/2020)](https://github.com/tiennvuit/CS112.L11.KHTN/tree/master/Assignment_04)
-- [Bài tập tuần 5 (08/10/2020)](https://github.com/tiennvuit/CS112.L11.KHTN/tree/master/Assignment_05)
-- [Bài tập tuần 6 (15/10/2020)](https://github.com/tiennvuit/CS112.L11.KHTN/tree/master/Assignment_05)
-- [Bài tập tuần 7 (22/10/2020)](https://github.com/tiennvuit/CS112.L11.KHTN/tree/master/Assignment_05)
-- [Bài tập tuần 8 (05/11/2020)](https://github.com/tiennvuit/CS112.L11.KHTN/tree/master/Assignment_05)
-- [Bài tập tuần 9 (26/10/2020)](https://github.com/tiennvuit/CS112.L11.KHTN/tree/master/Assignment_05)
-- [Bài tập tuần 10 (03/12/2020)](https://github.com/tiennvuit/CS112.L11.KHTN/tree/master/Assignment_05)
+- [Week 1 (10/09/2020)](https://github.com/tiennvuit/CS112.L11.KHTN/tree/master/Assignment_01)
+- [Week 2 (17/09/2020)](https://github.com/tiennvuit/CS112.L11.KHTN/tree/master/Assignment_02)
+- [Week 3 (24/09/2020)](https://github.com/tiennvuit/CS112.L11.KHTN/tree/master/Assignment_03)
+- [Week 4 (01/10/2020)](https://github.com/tiennvuit/CS112.L11.KHTN/tree/master/Assignment_04)
+- [Week 5 (08/10/2020)](https://github.com/tiennvuit/CS112.L11.KHTN/tree/master/Assignment_05)
+- [Week 6 (15/10/2020)](https://github.com/tiennvuit/CS112.L11.KHTN/tree/master/Assignment_05)
+- [Week 7 (22/10/2020)](https://github.com/tiennvuit/CS112.L11.KHTN/tree/master/Assignment_05)
+- [Week 8 (05/11/2020)](https://github.com/tiennvuit/CS112.L11.KHTN/tree/master/Assignment_05)
+- [Week 9 (26/10/2020)](https://github.com/tiennvuit/CS112.L11.KHTN/tree/master/Assignment_05)
+- [Week 10 (03/12/2020)](https://github.com/tiennvuit/CS112.L11.KHTN/tree/master/Assignment_05)
 
-## Seminar Phương pháp thiết kế thuật toán: Chia và Trị
-----------
-- Chủ đề: Giới thiệu phương pháp thiết kế thuật toán: Divide and Conquer
-- [Báo cáo](https://github.com/tiennvuit/CS112.L11.KHTN/blob/master/Seminar_DivideandConquer/%5BSeminar%5D%20Divide%20and%20Conquer.pptx)
-- [Source code](https://github.com/tiennvuit/CS112.L11.KHTN/tree/master/Seminar_DivideandConquer/Practice)
+## Divide and conquer paradigm seminar 
+- [Report](https://github.com/tiennvuit/CS112.L11.KHTN/blob/master/Seminar_DivideandConquer/%5BSeminar%5D%20Divide%20and%20Conquer.pptx)
+- [Code](https://github.com/tiennvuit/CS112.L11.KHTN/tree/master/Seminar_DivideandConquer/Practice)
 
 
 Contact information: tiennvuit@gmail.com
-
-
-
-
