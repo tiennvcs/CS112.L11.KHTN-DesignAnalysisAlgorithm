@@ -7,10 +7,10 @@
 |-|-|-|-|-|
 | 1 | Trần Trung Anh | 18520473 | KHTN2018 | https://github.com/AVL1 |
 | 2 | Nguyễn Phú Quốc | 18520343 | KHTN2018 | https://github.com/KicksxNPQ |
-| 3 | Nguyễn Văn Tiến | 18521489 | KHTN2018 | https://github.com/tiennvuit |
+| 3 | Nguyễn Văn Tiến (Tien Nguyen | 18521489 | KHTN2018 | https://github.com/tiennvuit |
 
 
-## Danh sách bài tập hằng tuần
+## Weekly exercies
 -----------
 - [Week 1 (10/09/2020)](https://github.com/tiennvuit/CS112.L11.KHTN/tree/master/Assignment_01)
 - [Week 2 (17/09/2020)](https://github.com/tiennvuit/CS112.L11.KHTN/tree/master/Assignment_02)
