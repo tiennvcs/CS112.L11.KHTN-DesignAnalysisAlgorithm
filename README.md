@@ -7,7 +7,7 @@
 |-|-|-|-|-|
 | 1 | Trần Trung Anh | 18520473 | KHTN2018 | https://github.com/AVL1 |
 | 2 | Nguyễn Phú Quốc | 18520343 | KHTN2018 | https://github.com/KicksxNPQ |
-| 3 | Nguyễn Văn Tiến (Tien Nguyen | 18521489 | KHTN2018 | https://github.com/tiennvuit |
+| 3 | Nguyễn Văn Tiến (Tien Nguyen) | 18521489 | KHTN2018 | https://github.com/tiennvuit |
 
 
 ## Weekly exercies
